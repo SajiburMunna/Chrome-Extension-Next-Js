@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "Tab Manager",
+    "description": "Organizes your Chrome extension and Chrome Web store documentation tabs.",
+    "version": "1.0",
+    "action": {
+      "default_title": "My Extesnion",
+      "default_popup": "index.html"
+  }
+   
+  }
